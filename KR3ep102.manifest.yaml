@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR3ep102/v1
+canonical_location: https://kanripo.org/bkk/KR3ep102/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醉花窗醫案
+  identifiers:
+    krp: KR3ep102
+  tags:
+    kr-categories: KR3ep
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep102.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - seq: 1
+    filename: KR3ep102_001.yaml
+    hash: sha256:71afb09890ae681abd9f97160489292ee763bc521ae7327cdff4e5573d6c3a59
+table_of_contents: []
+hash: sha256:26e4afe98cb5682a01c86b88c1ad593b35787b3f384f0213a46a2b0ddbd85034
